@@ -1,0 +1,2 @@
+# Amazone
+Amazone Clone Project
