@@ -1,2 +1,2 @@
-# Amazone
-Amazone Clone Project
+# Amazon
+Amazon Clone Project
